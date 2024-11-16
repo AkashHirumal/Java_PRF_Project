@@ -8,8 +8,6 @@
   
 <h2>🧐 Project Highlights</h2>
 
-Here're some of the project's best features:
-
 *   Variables and Data Types - Understanding and using various data types and variables effectively.
 *   Data Representation in Computer Memory (Smart Fashion Application) - Explores how data is structured and represented in memory with a practical Smart Fashion use case.
 *   Flow Control with JAVA Conditional Statements (Tax Calculator) - Demonstrates decision-making with conditional statements through a Tax Calculator application.
